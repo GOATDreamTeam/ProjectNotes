@@ -36,7 +36,6 @@
 
     - Other API Links: 
         - https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api#:~:text=The%20Climate%20Data%20API%20provides,World%20Bank's%20Terms%20of%20Use 
-        - 
 
 ## Nikki: 
 1. Filter Photo App 
@@ -68,6 +67,9 @@
     - API Links: 
         - https://developers.google.com/earth-engine/datasets/
 
+4. Plant App
+- https://docs.trefle.io/reference/#operation/searchSpecies 
+
 ## Breeann 
 1. Creating a feature, despite content, that can switch between modes of visual impairment, so far I've seen about 4 color palletes depending on the specific visual impairment, but think this could work for any of our apps
     - inspiration: dark and light mode 
@@ -78,6 +80,80 @@
 - accessiblity on both web and phone view 
 - accessibility mode through toggle and css for different color schemes and visual impairment 
 
+# Features we're interested in Doing: 
+## Rachel 
+- accessibility toggle 
+- visualization with D3 
+- really polished front-end with Sass 
+- Ideas that are exciting: 
+    - track dealing with climate change, and how it affects other things such as animals in an area, earth has changed over period of time 
+    - population growth vs fires, comparing data visualization of greater impacts 
+    - responsive web design 
+- Suggestions: 
+    - use Wikipedia API to return specific information about an animal to navigate difficulties with taxonomy 
+
+## Breeann 
+- accessibility toggle 
+- responsive web design 
+- Sass 
+- Google Vision idea with a combination of Climate Change or impacts 
+- Dream interpretation 
+
+## Briseida 
+- accessibility toggle
+- responsive web design translated to app 
+- connection between human and nature or human and animal 
+- not just visually stimulating, but looks accessible so far 
+- bridge the gap between human and animal 
+- symbolism, but how would this work with the scientific aspect of the site? 
+- would like to have data visualization
+- jacob and jasmine's project: made in the interest that people would use it  
+- taxonomy project is the one that Briseida is most comfortable with
+
+## Langston 
+- idea of having an image lookup for animals and their photographs 
+- track your pollution app/ carbon footprint 
+- dream application as well 
+- Google Earth is also interesting but worried about access to API 
+
+## Nikki 
+- https://www.gbif.org/  
+    - like the inaturalist link that comes from here 
+    - https://www.inaturalist.org/observations  
+- Carbon Footprint App 
+- Dream Interpretation App 
+- Research Lab App as well 
+- What is more interesting is what we do with this information 
+    - visualization aspect within this 
+- Less drawn towards maps, but would be fun to use different ways to present info or compelling with our narrative 
+- How to choose narrative and user interaction between views/components 
+- Accessiblity color toggle 
+- Other API Links: 
+    - https://www.gbif.org/dataset/50c9509d-22c7-4a22-a47d-8c48425ef4a7
+    - https://www.inaturalist.org/observations 
+
+## All of the Choices: 
+- Plant App - Briseida, Rachel, Breeann, Nikki, Langston
+    - maybe combine Taxonomy(Google Vision API)? 
+- ~~Dream Interpretation~~ - Nikki, Rachel, Langston
+- ~~Research Lab~~
+- ~~Grant Lab~~
+- ~~Photo Filter App~~ 
+- Carbon Footprint/ Climate Change - Briseida, Rachel, Breeann, Nikki, Langston 
+- ~~Taxonomy (Google Vision API)~~ - Breeann
+
+# TA & Ryan Notes: 
+## Top 2 Main Ideas: 
+1. Plant App/ Combo with Taxonomy
+    - APIs
+        - https://docs.trefle.io/docs/advanced/plants-fields
+2. Carbon Footprint/ Climate Change
+    - 
+
+## Tech we want to use: 
+    - D3 
+    - Colorblind Toggle Theme 
+    - 
 
 
 # Rubric Day 1 Outline: 
