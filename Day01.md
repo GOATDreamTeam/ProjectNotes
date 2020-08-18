@@ -76,7 +76,8 @@
 
 # Collaborative Ideas for the Team to Keep in Mind: 
 - accessiblity on both web and phone view 
-    - 
+- accessibility mode through toggle and css for different color schemes and visual impairment 
+
 
 
 # Rubric Day 1 Outline: 
