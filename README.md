@@ -43,7 +43,7 @@ Notes, planning, collab, and agreements
 * At 5pm each day teams will present 5-10 minutes demos of their progress to the cohort
   * during this time all teams should pause any coding activities
 
-### Day 0
+### Day 0 -Monday
 
 * create team agreement
 * brainstorm ideas
@@ -54,7 +54,7 @@ Notes, planning, collab, and agreements
   * research your ideas: explore documentation and APIs
 * **DEMO**: show us something your learned while researching ideas
 
-### Day 1
+### Day 1 -Tuesday
 
 * pitch idea
 * research libraries and APIs you may need
@@ -62,7 +62,7 @@ Notes, planning, collab, and agreements
   * make proof of concepts
 * **DEMO**: present your proposed idea and show us some API or library you may use
 
-### Day 2
+### Day 2 -Wednesday
 
 * setup repos and workflow tooling
 * continue research and exploration
@@ -77,7 +77,7 @@ Notes, planning, collab, and agreements
   * start breaking up work into small pieces
 * **DEMO**: present your final idea
 
-## Day 3
+## Day 3 -Thursday
 
 * solidify wireframe and data models
 * begin coding application architecture
@@ -88,32 +88,32 @@ Notes, planning, collab, and agreements
   * what hooks will you need?
 **DEMO**: wireframe
 
-### Day 4
+### Day 4 -Friday
 
 * Start implementing plan (working on cards)
 * move slow
 * by end of day. You should have **some** features finished
 * **DEMO**: demo a complete and deployed feature
 
-### Day 5
+### Day 5 -Monday
 
 * Continue working
 * continue moving slow
 * by the end of the day have MVP in sight
 * **DEMO**: demo a complete and **deployed** feature
 
-### Day 6 (MVP)
+### Day 6 (MVP) -Tuesday
 
 * push to main and production envs
 * if your not close to MVP maybe reconsider what MVP is
 * **DEMO**: demo MVP
 
-### Day 7 (really really have MVP)
+### Day 7 (really really have MVP) -Wednesday
 
 * Polish MVP functionality
 * **DEMO**: demo polished MVP
 
-### Day 10 (Style)
+### Day 10 (Style) -Thursday
 
 * Stretch goals
 * DON'T BREAK STUFF
@@ -123,7 +123,7 @@ Notes, planning, collab, and agreements
 * Practice presentations in the afternoon
   * TAs would love to see the presentations and give you feedback
 
-### Day 11
+### Day 11 -Friday!!!
 
 * continue to practice presentation on the hardware that you will use
 * you should be done coding
