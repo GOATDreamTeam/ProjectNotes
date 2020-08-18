@@ -147,13 +147,24 @@
 1. Plant App/ Combo with Taxonomy
     - APIs
         - https://docs.trefle.io/docs/advanced/plants-fields
+    - 2 different fetches of API Calls, one for one API and a 2nd for another API to connect the two 
+
 2. Carbon Footprint/ Climate Change
+    - APIs 
+        - https://coolclimate.org/calculator 
+        - https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api#:~:text=The%20Climate%20Data%20API%20provides,World%20Bank's%20Terms%20of%20Use. 
+
+- Find API or Dataset that doesn't require a lot of time, so we can focus on visualization 
+- Spend time drawing up a plan of what we want our page to look like
+    - what type of visualizatin
+    - what type of variety 
     - 
 
 ## Tech we want to use: 
-    - D3 
-    - Colorblind Toggle Theme 
-    - 
+- D3 
+- Colorblind Toggle Theme 
+- Sass 
+- Responsive Web Design for Phone and Computer 
 
 
 # Rubric Day 1 Outline: 
@@ -166,6 +177,6 @@
 # Canvas Submission Guidelines 
 ## Group Project: Pitch Ideas
 It is now time to begin preparations for your Group Project. You’ve selected a group around an idea. Formalize your idea and come up with:
-- An MVP: What will you demo?
+- ~~An MVP: What will you demo?~~
 - Challenges: Why is it interesting? What are the challenges?
 - High Level Plan: What steps do you need to do to accomplish your goals?
