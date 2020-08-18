@@ -21,23 +21,16 @@ voice-to-text, color schemas for color-blind users
 https://www.a11yproject.com/posts/2014-05-15-getting-started-aria/
 Accessible-Rich Internet Applications
 
-
-
 Ideas:
 
 making fun filters
 
 an app that pools information from many sources into one UI for research, maybe employ data scraping?
 
-
-
 making something for searching grants
 https://www.grants.gov/s2s/grantor/restful-apis.html
 
 *adopt screensize adaptations with media queries in css*
-
-
-
 
 
 
