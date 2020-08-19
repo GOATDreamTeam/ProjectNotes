@@ -23,9 +23,14 @@
 
 ### PM Tools 
 - [Our Github Projects](https://github.com/orgs/GOATDreamTeam/projects)
+    - [Frontend](https://github.com/orgs/GOATDreamTeam/projects/4)
+    - [Backend](https://github.com/orgs/GOATDreamTeam/projects/3)
+    - [Project Notes](https://github.com/orgs/GOATDreamTeam/projects/2)
+    - [Mood Board](https://github.com/orgs/GOATDreamTeam/projects/1)
 
 ## Rubric Guideline for Day 2 
 - setup repos and workflow tooling
+    - done! See above for links to specific PM Tools 
 - continue research and exploration
 - begin to plan and test your plan with proof of concept code
     - what technologies will you use (redux?, react?, monogodb?, postgres?, etc...)
