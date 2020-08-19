@@ -1,7 +1,7 @@
 # Day 2 
 
 ## Canvas Guideline
-## Tasks 
+### Tasks 
 -  create an organization 
     - [Github Organization](https://github.com/GOATDreamTeam)
         - [Github Backend](https://github.com/GOATDreamTeam/backend)
@@ -14,10 +14,6 @@
                 - made public
                 - changed restriction for PRs approved 
                 -  changed restriction for CI
-    - ~~Create a main branch and dev branch.~~
-    - ~~Make your dev branch your default branch.~~
-    - ~~Set a restriction on your dev branch that PR’s must be approved.~~
-    - ~~Set a restriction on your dev branch that PR’s must pass CI.~~
     - Create a basic README.md file within your repos that contains the names of all the members as well as a short description of the project.
         - done except we need to solidify our description 
     - Setup autodeploy on Heroku and Netlify.
@@ -25,9 +21,8 @@
         - [Heroku Production](https://goatdreamteamproduction.herokuapp.com/)
         - [Netlify Staging](frontend-master.netlify.app)
 
-## PM Tools 
-- [Github Projects](https://help.github.com/en/articles/about-project-boards)
-- [Trello](https://trello.com/)
+### PM Tools 
+- [Our Github Projects](https://github.com/orgs/GOATDreamTeam/projects)
 
 ## Rubric Guideline for Day 2 
 - setup repos and workflow tooling
