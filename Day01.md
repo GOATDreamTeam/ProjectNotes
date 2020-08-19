@@ -158,7 +158,6 @@
 - Spend time drawing up a plan of what we want our page to look like
     - what type of visualizatin
     - what type of variety 
-    - 
 
 ## Tech we want to use: 
 - D3 
