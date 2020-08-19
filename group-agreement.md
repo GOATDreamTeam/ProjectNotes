@@ -17,9 +17,6 @@
 
 *Some of us are cool with late-nite working: Rachel, Nikki, Langston, as needed.*
 
-
-
-
 # Conflict/concerns policy:
 
 1. What will your group do when it encounters conflict?
@@ -44,9 +41,6 @@ Overarching rule- nights / weekends NO expectation to work unless you want to.
 NO CODING unless it's sand boxing OR you're working with another person. -keep everyone in the loop so we all know what everyone's working.
 
 
-
-
-
 1. Technologies/libraries
 Give a certain amount to research and decide on a technology/library, but be open to hearing from others when we don't feel like it will serve us for our project.
 
@@ -68,8 +62,6 @@ Give a certain amount to research and decide on a technology/library, but be ope
 Majority vote wins.
 
 -Share useful tools!!!
-
-
 
 # WORKFLOW-
 Morning standups
@@ -93,8 +85,6 @@ How do we want to resolve tickets and do code reviews?
 -if tickets are synchronous, put/group those together. Get approval and have reviews before you move on to the next piece. Maybe MOB all of these.
 
 -If they're asynchronous and not dependent on other cards, they can be worked on in pairs or individually. (presentational stuff, button color, maybe updating snapshots, etc)
-
-
 
 # Strategy for hearing voices-
   1. pausing, being silent for a moment to consider any points or suggestions.  

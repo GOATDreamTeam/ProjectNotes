@@ -33,12 +33,34 @@
     - done! See above for links to specific PM Tools 
 - continue research and exploration
 - begin to plan and test your plan with proof of concept code
-    - what technologies will you use (redux?, react?, monogodb?, postgres?, etc...)
-    - user stories
-    - models
-    - routes (you may not need all CRUD routes for every model)
-    - wireframe
-    - component hierarchy
-    - define an MVP
-    - start breaking up work into small pieces
+    - What technologies will you use (redux?, react?, monogodb?, postgres?, etc...)
+        - Frontend: 
+            - D3
+            - Sass 
+            - Responsive Web Design 
+            - Motion Loading Screen: https://www.framer.com/api/motion/
+        - Backend: 
+            - Node 
+            - Mongodb 
+    - User stories
+        - "As a new plant lover, this app will allow you to search through different plants and the entire plant kingdom, to gain more information on a specific plant and view images of their different phases."
+        - "As a seasoned plant lover, this app will allow you to search through different plants and the entire plant kingdom, to gain more information on a specific plant and view images of their different phases and perhaps record specific detail for future use."
+    - Models
+        - User 
+            - email
+            - passwordHash 
+        - Plant
+            - scientific name
+            - common name 
+            - images[{flower: image_url}, {leaf: image_url}] 
+    - Routes (you may not need all CRUD routes for every model)
+    - Wireframe
+        - draw.io link 
+    - Component Hierarchy
+    - Define an MVP
+    - Start breaking up work into small pieces
 - DEMO: present your final idea
+    - Ryan says, whatever you have to show 
+    - Tell us of the idea that we've chosen 
+        - show the API and a request to that API and what it gives back 
+
