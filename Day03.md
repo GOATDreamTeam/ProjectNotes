@@ -77,6 +77,9 @@ Notes:
 
 ## Group Priority  / Plan
 
+https://miro.com/app/board/o9J_kt7m0G0=/
+WIREFRAMES- mobile first in our responsive web design 
+
 - user stories - group ? 
     - jump off Breeann's og user story
         - "As a new plant lover, this app will allow you to search through different plants and the entire plant kingdom, to gain more information on a specific plant and view images of their different phases."
