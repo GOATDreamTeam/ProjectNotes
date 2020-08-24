@@ -35,7 +35,7 @@
 - begin to plan and test your plan with proof of concept code
     - What technologies will you use (redux?, react?, monogodb?, postgres?, etc...)
         - Frontend: 
-            - D3
+            - D3 or GraphQL depending on our needs
             - Sass 
             - Responsive Web Design 
             - Motion Loading Screen: https://www.framer.com/api/motion/

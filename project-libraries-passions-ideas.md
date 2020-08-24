@@ -31,8 +31,3 @@ making something for searching grants
 https://www.grants.gov/s2s/grantor/restful-apis.html
 
 *adopt screensize adaptations with media queries in css*
-
-
-
-
-
