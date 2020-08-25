@@ -11,7 +11,6 @@
 - Flora vitae 
 - Flora-pedia 
 - Flora
-
 - Botonae (Mix of Botany and Plantae)
 - Propogate & Pollinate 
 - Flower-Buds (your pal in the plant business)
