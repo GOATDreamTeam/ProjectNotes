@@ -5,7 +5,6 @@
 - Backdrop images 
     - would be cool for Zoom Background images to be customized and have each of our names on it
     - link that we could share with our audience (link to linkedin or portfolio)
-    - 
 
 ## Project Name Ideas 
 
@@ -20,6 +19,13 @@
 - Routes to Branches 
 - Work Phloem
 - Reroot (re-route play on word)
+
+## What we like from the above: 
+- Reroot 
+- Seedlinks
+- Flower-buds 
+- Encyclopedia Botanica 
+- 
 
 - ### Corny sayings we can put in the app if we want: 
     - Inspiration keywords: Green House, Propogate, Grow a Damn, Horticulture, thorn hub (lol)
@@ -54,7 +60,7 @@
 - by the end of the day have MVP in sight
 - DEMO: demo a complete and deployed feature
 
-Some Links to Remember: 
+## Some Links to Remember: 
 - https://www.npmjs.com/package/react-modal-image
 - https://www.npmjs.com/package/react-slideshow-image
 - https://github.com/xiaolin/react-image-gallery
