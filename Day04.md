@@ -25,10 +25,9 @@
 - Seedlinks
 - Flower-buds 
 - Encyclopedia Botanica 
-- 
 
 - ### Corny sayings we can put in the app if we want: 
-    - Inspiration keywords: Green House, Propogate, Grow a Damn, Horticulture, thorn hub (lol)
+    - Inspiration keywords: Green House, Propogate, Grow a Damn(Tyler Thrasher), Horticulture, thorn hub (lol)
     - Rate this app (Lichen this app? Rate us on Google Play )
     - Lettuce Begin 
     - Just wait, thistle be great (loading screen) 
