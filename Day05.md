@@ -45,3 +45,9 @@
         - Please Remember: not populating our database until upon click
             - this action would happen on the list page for note
         - Styling (not just basic white background for tomorrow)
+
+## Tech Debt for Slow Images 
+- lazyloading - shows a spinner while image is loading 
+- set max width and height for the image and set it to auto, to keep same aspect ratio or gutters for the remaining white space that it doesn't fill 
+- choose a decent background color to compliment this 
+
